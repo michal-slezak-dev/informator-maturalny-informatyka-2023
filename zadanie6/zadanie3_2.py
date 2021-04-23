@@ -1,8 +1,12 @@
 def czy_antypalindrom(napis):
+    temp = 0
     for i in range(1, int(len(napis))):
-        if napis[i - 1] == napis[len(napis) - i]:
-            return False
-    return True
+        if napis[i - 1] != napis[len(napis) - i]:
+            temp += 1
+
+    if temp == len(napis) - 1:
+        return True
+    return False
 
 with open("dane6.txt", "r", encoding="UTF-8") as plik:
     napisy = []
@@ -20,8 +24,8 @@ for napis in napisy:
         ile += 1
 print(ile)
 
-with open("zadanie6_3.txt", "w", encoding="UTF-8") as plikZapis:
-    for antypalindrom in antypalindromy:
-        plikZapis.write(str(antypalindrom) + "\n")
-
-    plikZapis.write(str(ile))
+# with open("zadanie6_3.txt", "w", encoding="UTF-8") as plikZapis:
+#     for antypalindrom in antypalindromy:
+#         plikZapis.write(str(antypalindrom) + "\n")
+#
+#     plikZapis.write(str(ile))

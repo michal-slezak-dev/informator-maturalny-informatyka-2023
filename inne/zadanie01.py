@@ -24,5 +24,4 @@ for wiersz in wiersze:
     if liczba1 > liczba2:
         ile += 1
 
-print(ile)
-
+print(f"Wierszy, w których pierwsza liczba jest większa od drugiej jest: {ile}")

@@ -35,4 +35,4 @@ for wiersz in wiersze:
     if sprawdzanaPodstawa1 >= int(podstawa1) or sprawdzanaPodstawa2 >= int(podstawa2):
         ile += 1
 
-print(ile)
+print(f"Wierszy, w których wystąpiły opisane w poleceniu błędy jest: {ile}")

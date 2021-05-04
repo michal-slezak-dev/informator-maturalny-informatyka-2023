@@ -60,8 +60,8 @@ print(f'Te liczby to:')
 for number in numbers:
     """Można też zamiast funkcji from_other użyć po prostu int(liczba, podstawa), to też zamieni nam liczbę w danym systemie na liczbę dziesiętną"""
     if is_prime(int(from_other(number, 5))):
-        print(str(oct(int(number))).lstrip("0o"))
-        answers.append(str(oct(int(number))).lstrip("0o"))
+        print(str(oct(int(number, 5))).lstrip("0o"))
+        answers.append(str(oct(int(number, 5))).lstrip("0o"))
         counter += 1
 print(f'Tych liczb jest {counter}')
 

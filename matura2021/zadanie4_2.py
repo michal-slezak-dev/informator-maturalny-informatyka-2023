@@ -30,3 +30,10 @@ for instruction in amount_and_instruction:
         maxInstruction = instruction[0]
 
 print(maxInstruction, " ", maxAmount)
+
+with open("wyniki4.txt", "a", encoding="UTF-8") as output:
+    output.write("\n\n4.2\n")
+    output.write(str(maxInstruction) + str(maxAmount))
+
+
+

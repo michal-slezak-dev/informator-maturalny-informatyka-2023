@@ -25,12 +25,14 @@ for instruction in instructions:
         stringList.pop(-1)
     elif instruction[0] == "PRZESUN":
         if instruction[1] in stringList:
-            for i in stringList:
-                if i == instruction[1]:
-                    i = changed[i]
+            # print("Zmieniam: ", instruction[1], " na: ", changed[instruction[1]])
+            for letter in stringList:
+                if letter == instruction[1]:
+                    stringList[stringList.index(letter)] = changed[letter]
+                    # letter = changed[letter] ----> tak jest źle, bo zmienia chwilowo
                     break
-print(len(stringList))
+print("".join(stringList))
 
-with open("wyniki4.txt", "w", encoding="UTF-8") as output:
-    output.write("4.1\n")
-    output.write(str(len(stringList)))
+with open("wyniki4.txt", "a", encoding="UTF-8") as output:
+    output.write("\n\n4.4\n")
+    output.write("".join(stringList))

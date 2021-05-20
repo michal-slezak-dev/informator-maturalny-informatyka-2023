@@ -30,6 +30,3 @@ for instruction in amount_and_instruction:
         maxInstruction = instruction[0]
 
 print(maxInstruction, " ", maxAmount)
-
-
-

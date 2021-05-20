@@ -25,4 +25,4 @@ print(maxLetter, " ", maxAmount)
 
 with open("wyniki4.txt", "a", encoding="UTF-8") as output:
     output.write("\n\n4.3\n")
-    output.write(str(maxLetter) + str(maxAmount))
+    output.write(str(maxLetter) + " " + str(maxAmount))

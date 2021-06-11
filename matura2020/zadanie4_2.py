@@ -13,7 +13,7 @@ def sub_seq(word):
 
     Na końcu używam     bloku try except. Staram się wyłonić maksa z counters i wtedy przypisuję do zmiennej maxSubLetter literkę, która wystąpiła tyle razy.
     Kiedy wypluwa mi ValueError to znaczy, że coś się popsuło i mamy pustą listę counters i oznacza to, że to ten przypadek, gdzie każda literka występuje po sobie tylko raz i
-    trzeba maxSub przypisac 1 i ta literka to pierwsza literka prawdzanego słowa. Na koniec zwracamy 'wiadomość' składającą się z tej literki * ilość jej występowania po sobie.
+    Trzeba wtedy maxSub przypisac 1 i maxSubLetter pierwszą literkę sprawdzanego słowa. Na koniec zwracamy 'wiadomość' składającą się z tej literki * ilość jej występowania po sobie i ilość jej występowania
 
     :param word:
     :return:

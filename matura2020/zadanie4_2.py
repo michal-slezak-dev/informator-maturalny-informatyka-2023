@@ -16,7 +16,6 @@ def sub_seq(word):
         else:
             letters.append(word[0])
             counters.append(1)
-
     try:
         maxSub = max(counters)
         maxLetterSub = letters[counters.index(maxSub)]

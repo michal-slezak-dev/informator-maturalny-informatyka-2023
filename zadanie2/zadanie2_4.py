@@ -1,4 +1,4 @@
-def is_valid(bracket):
+def is_correct(bracket):
     openingBracket = 0
     closingBracket = 0
 
@@ -25,7 +25,7 @@ with open("zadanie2_4.txt", "w", encoding='UTF-8') as output:
     output.write("ZADANIE 2.4\n")
 
     for bracket in brackets:
-        if is_valid(bracket):
+        if is_correct(bracket):
             print("tak")
             output.write("tak\n")
         else:

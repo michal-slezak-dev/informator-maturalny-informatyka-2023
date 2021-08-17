@@ -1,0 +1,7 @@
+6.1
+Najjaśniejszy piksel to:221
+Najciemniejszy piksel to:7
+
+6.2
+Liczba takich wierzy wynosi: 149
+

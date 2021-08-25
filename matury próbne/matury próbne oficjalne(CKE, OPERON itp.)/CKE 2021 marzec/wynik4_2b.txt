@@ -1,0 +1,4 @@
+ZADANIE 4_2 
+b) 
+Miasto z galerią o największej powierzchni oraz powierzchnia tej galerii: Essen 4760
+Miasto z galerią o najmniejszej powierzchni oraz powierzchnia tej galerii: Wilno 1620

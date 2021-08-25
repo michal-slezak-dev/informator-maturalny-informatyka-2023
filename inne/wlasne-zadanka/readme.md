@@ -1,9 +1,8 @@
 Była to praca domowa podczas zajęć informatyki w mojej szkole 💻|🐍|💕
 
-----------------------------------------------------------------------------------------
 <h1>Praca domowa:</h1>
 ![image](https://user-images.githubusercontent.com/65869511/130833860-6d56b768-c25c-4c39-9432-abe841d0a1d5.png)
-----------------------------------------------------------------------------------------
+
 
 
 <h1>Treść zadań</h1>

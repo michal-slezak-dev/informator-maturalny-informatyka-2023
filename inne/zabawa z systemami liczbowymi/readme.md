@@ -1,3 +1,4 @@
+<style>text-align: center; </style>
 Była to jedna z lekcji informatyki w mojej szkole 💻|🐍|💕
 
 **Opis lekcji:**

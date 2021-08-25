@@ -1,0 +1,15 @@
+Zadanie 4_3
+Pary numerów, które znają się nawzajem dla pliku znajomi_1.txt: 
+1 2 
+
+Pary numerów, które znają się nawzajem dla pliku znajomi_2.txt: 
+1 9 
+1 3 
+1 7 
+5 9 
+1 5 
+2 7 
+2 5 
+3 9 
+0 3 
+5 8 

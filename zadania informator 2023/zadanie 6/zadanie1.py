@@ -1,5 +1,3 @@
-from collections import defaultdict
-
 with open("dane6.txt", "r", encoding="UTF-8") as plik:
     napisy = []
 

@@ -1,0 +1,3 @@
+Zadanie 4.2
+Osoby z pliku znajomi_1.txt, których nikt nie zna mają numer/-y: 0
+Osoby z pliku znajomi_2.txt, których nikt nie zna mają numer/-y: 4, 6, 

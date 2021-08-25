@@ -1,6 +1,6 @@
 Była to jedna z lekcji informatyki w mojej szkole 💻|🐍|💕
 
-**Opis lekcji:**
+<h1>**Opis lekcji:**<h1/>
 ![image](https://user-images.githubusercontent.com/65869511/130832057-41f3b322-ade5-45bd-bad9-a085ad17a603.png)
 -----------------------------------------------------------------------------------------------------------------------
                                               **Treść zadań:**            

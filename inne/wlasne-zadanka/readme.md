@@ -5,7 +5,7 @@ Była to praca domowa podczas zajęć informatyki w mojej szkole 💻|🐍|💕
 ![image](https://user-images.githubusercontent.com/65869511/130833860-6d56b768-c25c-4c39-9432-abe841d0a1d5.png)
 ----------------------------------------------------------------------------------------
 
-----------------------------------------------------------------------------------------
+
 <h1>Treść zadań</h1>
 
 <h3>Zadanie 01</h3>
@@ -20,4 +20,4 @@ Była to praca domowa podczas zajęć informatyki w mojej szkole 💻|🐍|💕
 <h3>Zadanie 03 z lepszą treścią polecenia ;-)</h3>
 ![image](https://user-images.githubusercontent.com/65869511/130834234-6b386461-db64-4c7d-83c7-afef3904259f.png)
 
-----------------------------------------------------------------------------------------
+

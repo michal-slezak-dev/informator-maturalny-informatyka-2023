@@ -1,0 +1,3 @@
+ZADANIE 4.3
+Miasto o największej liczbie lokali różnego typu i liczba lokali różnego typu: Berlin 35
+Miasto o najmniejszej liczbie lokali różnego typu i liczba lokali różnego typu: Kolonia 18

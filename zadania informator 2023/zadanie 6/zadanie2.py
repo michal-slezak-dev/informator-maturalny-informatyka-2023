@@ -1,4 +1,3 @@
-from collections import defaultdict
 def suma_cyfr(napis):
     suma = 0
 

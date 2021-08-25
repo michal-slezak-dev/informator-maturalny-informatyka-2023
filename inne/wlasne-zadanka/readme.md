@@ -6,7 +6,7 @@ Była to praca domowa podczas zajęć informatyki w mojej szkole 💻|🐍|💕
 ![Zrzut ekranu 2021-08-25 190903](https://user-images.githubusercontent.com/65869511/130834771-01082e27-d34c-45e0-b3b9-874b80072f81.png)
 
 
-<h1><a name=menu></a>Treść zadań:</h1>
+<h1><a name=menu></a>Menu zadań(treść):</h1>
 
 [Zadanie 01](#zadanie-01)
 

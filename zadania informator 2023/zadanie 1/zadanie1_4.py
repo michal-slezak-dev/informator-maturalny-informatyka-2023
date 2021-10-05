@@ -14,4 +14,4 @@ for i in range(len(ciag)):
 
 print(segment)
 
-# STRASZNIE DŁUGO TRWA!!! ;-(
+# strasznie długo trwa!!!  ----> ;-( TRZEBA KADANE ZROBIĆ!!!

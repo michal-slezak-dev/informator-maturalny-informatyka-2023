@@ -37,5 +37,5 @@ columns_strings = ["".join(string_col) for string_col in columns_strings_list]
 # kolumny, w których występuje spójny ciąg "matura"
 columns = [i for i in range(200) if "matura" in "".join(columns_strings[i])]
 
-print(f"Wiersze: {list(map(lambda x: x + 1,rows))}")
-print(f"Kolumny: {list(map(lambda x: x + 1,columns))}")
+print(f"Wiersze: {list(map(lambda x: x + 1, rows))}")
+print(f"Kolumny: {list(map(lambda x: x + 1, columns))}")

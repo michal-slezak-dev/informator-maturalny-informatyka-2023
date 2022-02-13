@@ -3,15 +3,12 @@ from string import ascii_lowercase
 with open("wykreslanka.txt", "r") as file:
     rows = [list(line.strip()) for line in file]
 
-columns_strings_list = [[] for _ in range(200)]
+columns = [[] for _ in range(200)]
 for row in rows:
     k = 0
     for i in range(200):
-        columns_strings_list[i].append(row[k])
+        columns[i].append(row[k])
         k += 1
-
-# zamieniamy listę list na listę napisów z kolumn
-columns = [string_col for string_col in columns_strings_list]
 
 alphabet = list(ascii_lowercase)
 """

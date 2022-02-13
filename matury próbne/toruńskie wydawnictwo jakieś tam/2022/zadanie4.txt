@@ -1,0 +1,17 @@
+ZADANIE 4.1:
+Wiersze: [0, 15, 27, 42, 55, 90, 99]
+Kolumny: [0, 81, 92, 199]
+
+ZADANIE 4.2:
+Najdłuższy spójny podciąg składający się z takiego samego znaku ma długość: 10
+
+Ciągi o takiej długości są w wierszach o numerach:62
+72
+
+ZADANIE 4.3:
+wiersz: 71
+kolumna: 102
+
+wysokość: 13
+szerokość: 2
+

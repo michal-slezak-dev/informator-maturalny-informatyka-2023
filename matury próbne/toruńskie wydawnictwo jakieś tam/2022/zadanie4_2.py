@@ -40,7 +40,7 @@ with open("zadanie4.txt", "a", encoding="UTF-8") as out:
     out.write("ZADANIE 4.2:\n")
 
     out.write(f"Najdłuższy spójny podciąg składający się z takiego samego znaku ma długość: {max_length}\n")
-    out.write("\nCiągi o takiej długości są w wierszach o numerach:")
+    out.write("\nCiągi o takiej długości są w wierszach o numerach:\n")
 
     for o in output:
         out.write(f"{o}\n")

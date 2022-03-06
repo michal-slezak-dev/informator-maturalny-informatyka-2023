@@ -1,0 +1,2 @@
+Iloœæ plansz, na których co najmniej 1 kolumna jest pusta: 36
+Najwiêksza liczba pustych kolumn na jednej z tych plansz: 3

@@ -1,0 +1,12 @@
+3.1:
+619
+
+3.2
+a) 4
+b)
+75 935 1010
+97 976 1073
+3.3
+a) 7
+b) Pierwsza liczba: 19
+Ostatnia liczba: 9601

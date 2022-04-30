@@ -45,5 +45,5 @@ first_num, last_num = nums[max_sub.index(longest_sub) + 2 - longest_sub], nums[m
 print(f"a) {longest_sub}\nb) Pierwsza liczba: {first_num}\nOstatnia liczba: {last_num}")
 
 with open("wyniki3.txt", "a") as out:
-    out.write("3.3\n")
+    out.write("\n3.3\n")
     out.write(f"a) {longest_sub}\nb) Pierwsza liczba: {first_num}\nOstatnia liczba: {last_num}")

@@ -1,0 +1,16 @@
+5.1:
+I: 34
+II: 18
+III: 21
+IV: 27
+
+5.2:
+Liczba punktów: 2
+Największa odległość: 127.35
+Współrzędne punktów:
+-93 -87
+87 93
+
+5.3:
+Liczba punktów: 5
+3 5
